@@ -1,0 +1,12 @@
+{
+    "name": "WorkerBatteryEvolution",
+    "version": "1.0.0",
+    "title": "Worker Battery Evolution",
+    "author": "DerLolli",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age >= 2.0.0"
+    ],
+    "description": "This mod adds new researches that increases worker robot battery capacity. This mod already exists but this mod uses slight adjusted numbers to be more 'balanced'"
+}
